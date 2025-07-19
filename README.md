@@ -14,6 +14,13 @@ A responsive and interactive quiz web application built using **HTML**, **CSS**,
 
 ---
 
+
+
+📸 Screenshots
+Question Screen	Result Screen
+	
+<image src="1.png" alt="login preview" width="100%" /> <image src="2.png" alt="chat preview" width="100%" />
+
 ## 📦 Installation
 
 ### 1. Clone the repository
@@ -56,19 +63,9 @@ const questions = [
 
 ```
 
-📸 Screenshots
-Question Screen	Result Screen
-	
-<image src="1.png" alt="login preview" width="100%" /> <image src="2.png" alt="chat preview" width="100%" />
-
-    Replace the image URLs above with actual screenshots if available.
 
 🔐 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute it for personal or commercial use.
 🙋‍♂️ Author
-
-Your Name
-📧 your.email@example.com
-🔗 Portfolio/Website
