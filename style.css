@@ -1,0 +1,31 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.list-group-item {
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.list-group-item:hover {
+  background-color: #f0f0f0;
+}
+
+.correct {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.wrong {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+.correct {
+  background-color: #d4edda !important;
+  color: #155724 !important;
+}
+
+.wrong {
+  background-color: #f8d7da !important;
+  color: #721c24 !important;
+}
