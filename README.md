@@ -1,42 +1,46 @@
 # Codtech-quiz-app
 
-🛠️ Technologies Used
+A responsive and interactive quiz web application built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. Users can answer multiple-choice questions, get instant feedback, and view their final score.
 
-    HTML5
+---
 
-    CSS3
+## 🛠️ Technologies Used
 
-    JavaScript (Vanilla)
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- Bootstrap 5  
+- Font Awesome *(optional, for icons)*
 
-    Bootstrap 5
+---
 
-    Font Awesome (optional for icons)
+## 📦 Installation
 
-📦 Installation
+### 1. Clone the repository
 
-    Clone the repository
-
+```bash
 git clone https://github.com/your-username/quiz-app.git
 
-    Navigate to the project folder
+2. Navigate to the project folder
 
 cd quiz-app
 
-    Open the project
+3. Open the project
 
 Just open index.html in your browser:
 
 start index.html
 
+Or simply double-click the index.html file.
 💻 Usage
 
     Click on the correct answer from the given options.
 
-    Get instant feedback—green for correct, red for incorrect.
+    Get instant feedback — 🟢 green for correct, 🔴 red for incorrect.
 
-    Click Next to proceed.
+    Click Next to proceed to the next question.
 
-    See your final score at the end and choose to restart.
+    At the end, see your final score and choose to restart the quiz.
 
 🧩 Customization
 
@@ -46,16 +50,20 @@ const questions = [
   {
     question: "Your question here",
     options: ["Option1", "Option2", "Option3", "Option4"],
-    answer: "Correct Answer"
+    answerIndex: 2 // Index of the correct answer (0-based)
   }
 ];
 
 📸 Screenshots
 Question Screen	Result Screen
 	
+
+    Replace the placeholder URLs above with real screenshots from your project.
+
 🔐 License
 
 This project is licensed under the MIT License.
+Feel free to use, modify, and distribute it for personal or commercial use.
 🙋‍♂️ Author
 
 Your Name
