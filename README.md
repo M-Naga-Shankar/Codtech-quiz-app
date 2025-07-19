@@ -54,6 +54,8 @@ const questions = [
   }
 ];
 
+```
+
 📸 Screenshots
 Question Screen	Result Screen
 	
