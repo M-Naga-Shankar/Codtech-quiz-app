@@ -17,7 +17,6 @@ A responsive and interactive quiz web application built using **HTML**, **CSS**,
 ## 📦 Installation
 
 ### 1. Clone the repository
-
 ```bash
 git clone https://github.com/your-username/quiz-app.git
 
@@ -31,12 +30,11 @@ Just open index.html in your browser:
 
 start index.html
 
-Or simply double-click the index.html file.
 💻 Usage
 
     Click on the correct answer from the given options.
 
-    Get instant feedback — 🟢 green for correct, 🔴 red for incorrect.
+    Get instant feedback—🟢 green for correct, 🔴 red for incorrect.
 
     Click Next to proceed to the next question.
 
@@ -50,7 +48,7 @@ const questions = [
   {
     question: "Your question here",
     options: ["Option1", "Option2", "Option3", "Option4"],
-    answerIndex: 2 // Index of the correct answer (0-based)
+    answerIndex: 2  // Use index starting from 0
   }
 ];
 
@@ -58,7 +56,7 @@ const questions = [
 Question Screen	Result Screen
 	
 
-    Replace the placeholder URLs above with real screenshots from your project.
+    Replace the image URLs above with actual screenshots if available.
 
 🔐 License
 
