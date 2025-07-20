@@ -1,5 +1,12 @@
 # Codtech-quiz-app
 
+COMPANY    : CODTECH IT SOLUTIONS
+NAME       : M NAGA SHANKAR
+INTERN ID  : CT08DN1962
+DOMAIN     : FRONT END DEVELOPMENT
+DURATION   : 8 WEEKS
+MENTOR     : NEELA SANTOSH
+
 A responsive and interactive quiz web application built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. Users can answer multiple-choice questions, get instant feedback, and view their final score.
 
 ---
