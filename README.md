@@ -25,7 +25,7 @@ Question Screen	Result Screen
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/M-Naga-Shankar/Codtech-quiz-app.git
 
 2. Navigate to the project folder
 
